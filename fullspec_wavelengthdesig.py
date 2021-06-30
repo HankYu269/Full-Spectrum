@@ -147,3 +147,4 @@ if __name__ == '__main__':
         print("Value Error: option should be min or max")
         
     #plt.savefig(input_path+".png")
+    
