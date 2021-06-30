@@ -141,7 +141,7 @@ if __name__ == '__main__':
     elif sys.argv[2] == 'min' or sys.argv[2] == 'max':
         option = sys.argv[2]
         one_phase_decay(df, option)
-        x, z = extract2D(df, option)
+        extract2D(df, option)
         #plotting(x, z, fit_x, fit_z)
     else:
         print("Value Error: option should be min or max")
