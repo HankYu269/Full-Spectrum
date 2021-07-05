@@ -1,5 +1,6 @@
-# Full Spectrum Analysis
-The file <code>fullspec.py</code> is to draw the 3D interactive figure of photocycle as shown below.
+# Full-Spectrum Analysis
+The file <code>fullspec.py</code> is for drawing the 3D interactive figure of photocycle as shown below.
+The data used are smoothed by importing <code>sgolay2.py</code> in the file <code>fullspec.py</code>.
 
 <!-- Figure -->
 <p>
@@ -11,3 +12,6 @@ The file <code>fullspec.py</code> is to draw the 3D interactive figure of photoc
 <ul>
   <li><code>csv_row_replace.py</code>: Replace time scale at row 4</li>
 </ul>
+
+# 2-Dimensional Data Extraction
+For examining data of a specific time point or wavelength, you can use the files <code>fullspec_timedesig.py</code> and <code>fullspec_wavelengthdesig.py</code>, respectively.
