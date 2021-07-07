@@ -14,4 +14,4 @@ The data used are smoothed by importing <code>sgolay2.py</code> in the file <cod
 </ul>
 
 # 2-Dimensional Data Extraction
-For examining data of a specific time point or wavelength, you can use the files <code>fullspec_timedesig.py</code> and <code>fullspec_wavelengthdesig.py</code>, respectively.
+For examining data of a specific timestamp or wavelength, you can use the files <code>fullspec_timedesig.py</code> and <code>fullspec_wavelengthdesig.py</code>, respectively.
