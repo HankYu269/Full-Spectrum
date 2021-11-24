@@ -1,6 +1,6 @@
-# Full-spectrum Analysis
-The file <code>fullspec.py</code> is for drawing the 3D interactive figure of photocycle as shown below.
-The data used are smoothed by importing <code>sgolay2.py</code> in the file <code>fullspec.py</code>.
+# 3D Surface Plot
+The file <code>surfaceplot.py</code> is for drawing the 3D interactive figure of photocycle as shown below.
+The data used are smoothed by <code>sgolay2.py</code> imported in <code>surfaceplot.py</code>.
 
 <!-- Figure -->
 <p>
@@ -15,3 +15,6 @@ The data used are smoothed by importing <code>sgolay2.py</code> in the file <cod
 
 # 2-dimensional Data Extraction
 For examining data of a specific timestamp or wavelength, you can use the files <code>desig_time.py</code> and <code>desig_wavelgth.py</code>, respectively.
+
+# Raster Plot (planar, like common EADS/DADS)
+<code>rasterplot.py</code>
