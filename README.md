@@ -16,5 +16,5 @@ The data used are smoothed by <code>sgolay2.py</code> imported in <code>surfacep
 # 2-dimensional Data Extraction
 For examining data of a specific timestamp or wavelength, you can use the files <code>desig_time.py</code> and <code>desig_wavelgth.py</code>, respectively.
 
-# Raster Plot (planar, like common EADS/DADS)
+# Raster Plot (planar, like EADS/DADS)
 <code>rasterplot.py</code>
