@@ -8,4 +8,4 @@
 
 
 # 2D Data Extraction
-For examining data of a specific delay time, you can use the files <code>desig_time.py</code>.
+Use <code>desig_time.py</code> to extract a time-resolved absorption spectrum at a specific delay time.
